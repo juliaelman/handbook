@@ -39,7 +39,6 @@ collections:
     output: true
     permalink: /:name/
 
-url: "https://handbook.tts.gsa.gov"
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
